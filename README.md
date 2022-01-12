@@ -1,5 +1,4 @@
 ### Autor
----
 
 <a href="https://www.linkedin.com/in/fernando-oliveira-074298113/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47955596?s=400&u=d54ee9e76e9ac50012b987bb667a3ef5436e8b54&v=4" width="100px;" alt="fernando"/>
